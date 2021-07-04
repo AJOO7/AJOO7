@@ -1,16 +1,20 @@
-### Hi there 👋
+<h1>Hi there, I'm <a href="https://www.liuxunzhuo.com/">AJOO7</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1>
 
-<!--
-**AJOO7/AJOO7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+I am from  **India** 🐧
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+School at **DTU**，Major in **Computer Engineering**💻
+
+I love **Developing crazy ideas** ❤️
+
+## My interest❤️ 
+
+🤖️**Web Development, Machine Learning, Deep Learning and AI**☁️
+
+## My Repos are Below👇 ![Profile View Counter](https://komarev.com/ghpvc/?username=AJOO7)
+
+#### Feel free to give Your Suggestions, Issues or PRs🌍
+
+<img  src="https://github-readme-stats.vercel.app/api?username=AJOO7&show_icons=true&theme=tokyonight&icon_color=6392DF">
+
+</div>
