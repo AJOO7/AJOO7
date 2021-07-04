@@ -6,7 +6,7 @@ I am from  **India**
 
 School at **DTU**，Major in **Computer Engineering**💻
 
-I love **Developing crazy ideas** ❤️
+I love **Developing new ideas** ❤️
 
 ## My interest❤️ 
 
