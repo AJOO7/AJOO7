@@ -8,6 +8,8 @@ School at **DTU**，Major in **Computer Engineering**💻
 
 I love **Developing new ideas** ❤️
 
+Trying every possibility
+
 ## My interest❤️ 
 
 🤖️**Web Development, Machine Learning, Deep Learning and AI**☁️
