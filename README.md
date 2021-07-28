@@ -4,7 +4,7 @@
 
 I am from  **India**
 
-School at **DTU**，Major in **Computer Engineering**💻
+Undergrad at **DTU**，Major in **Computer Engineering**💻
 
 I love **Developing new ideas** ❤️
 
