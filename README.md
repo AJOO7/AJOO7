@@ -16,7 +16,7 @@ Trying every possibility
 
 ## My Repos are Below👇 ![Profile View Counter](https://komarev.com/ghpvc/?username=AJOO7)
 
-#### Feel free to give Your Suggestions, Issues or PRs🌍
+#### Feel free to give Your Suggestions, Issues or PRs <a href="mailto:ajay.pal.bisherwal@gmail.com">🌍</a>
 
 <img  src="https://github-readme-stats.vercel.app/api?username=AJOO7&show_icons=true&theme=tokyonight&icon_color=6392DF">
 
