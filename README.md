@@ -12,7 +12,7 @@ Trying every possibility
 
 ## My interest❤️ 
 
-🤖️**Web Development, Machine Learning, Deep Learning and AI**☁️
+🤖️**Web Development, Data Science and AI**☁️
 
 ## My Repos are Below👇 ![Profile View Counter](https://komarev.com/ghpvc/?username=AJOO7)
 
